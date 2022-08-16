@@ -1,0 +1,11 @@
+Student Name: Amiel De Los Reyes
+Student ID: 200394938
+CS 215 Summer 2022
+August 17, 2022
+Assignment 6 AJAX
+
+- Main page refreshes every 90 seconds and grabs fresh data if there are any new polls posted without refreshing the page.
+
+- Poll Vote Page does not redirect to Poll Results Page if the user votes. It does AJAX and prints the number of votes which the user has chosen.
+
+- The radio button and submit button is also disabled after voting. 
